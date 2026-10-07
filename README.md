@@ -1,9 +1,7 @@
-### Implement LLM 
+#### LLM Practice
+Implementing:
+**Text Generation**: Examples of greedy search decoding, beam search, n-gram penalty, top-k sampling, and top-p sampling.
 
-#### Practice 1
-    1. Prompt Engineering 
-    2. Few-shot learning
+**Prompt Engineering**: An example of using the OpenAI API to generate a report based on provided meeting notes.
 
-#### Practice 2
-    1. RAG
-    2. LLM Agent
+**Few-shot Learning**: An example of using the OpenAI API to provide the model with report-generation examples and then generate a report based on provided meeting notes.
